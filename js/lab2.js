@@ -10,7 +10,7 @@
     var b = a.toString();
 
     var newStr = outText.replace(reg, b.toUpperCase());
-    console.log(neSstr);
+    console.log(newStr);
 
 
 
